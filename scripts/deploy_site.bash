@@ -8,7 +8,7 @@ if [ -z "$package_path" ]; then
     exit 1
 fi
 
-remote_host="hairo@hairo.io"
+remote_host="hairo@archive.hairo.io"
 remote_site_dir="/usr/share/nginx/site"
 
 ssh $remote_host "mkdir -p /tmp/site; sudo mkdir -p $remote_site_dir"

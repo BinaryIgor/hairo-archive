@@ -1,7 +1,8 @@
 #!/bin/bash
 set -e
 
-remote_host="hairo@hairo.io"
+remote_host="hairo@archive.hairo.io"
+email="wirtuokracja@gmail.com"
 
 ssh $remote_host "
 echo 'Setting up certbot...'
@@ -10,10 +11,15 @@ sudo ln -s /snap/bin/certbot /usr/bin/certbot
 echo
 echo 'Certbot configured, generating certs...'
 #Standalone mode: certbot will temporarily spin up a webserver on the machine.
-sudo certbot certonly --standalone --non-interactive --agree-tos -v --domains \"hairo.io\"
+
+sudo systemctl stop nginx
+
+sudo certbot certonly --standalone --non-interactive --agree-tos --email ${email} -v --domains \"archive.hairo.io\"
 
 echo
 echo 'Certbot set, setting up pre and post renew scripts...'
+
+sudo systemctl start nginx
 "
 
 pre_hook_path="/etc/letsencrypt/renewal-hooks/pre/stop_nginx.sh"
