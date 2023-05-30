@@ -1,4 +1,48 @@
 {
+  "archive": {
+    "contextTitle": "Kontekst",
+    "context": "Kiedyś żyła tutaj aplikacja Hairo, która była pierwszym, zautomatyzowanym systemem do poznawania ludzi. Pisaliśmy ją z myślą o tym, aby maksymalnie proste stało się znalezienie osób z którymi się dogadujemy i utrzymywanie z nimi kontaktu. Po roku od jej publikacji i zgromadzeniu blisko 1500 użytkowników, zdecydowaliśmy się ją zarchiwizować wraz z dniem 28-05-2023.",
+    "howItWorkedTitle": "Działanie",
+    "howItWorked": "Dwie reklamy opisujące działanie Hairo:",
+    "add1": {
+      "title": "Reklama 1",
+      "paragraph1": "Automat do... poznawania ludzi. Co?!",
+      "paragraph2": "Wyobraź sobie dwa kliknięcia: szukaj i zaakceptuj spotkanie.",
+      "paragraph3": "Podajesz opis człowieka:",
+      "paragraph3ListItem1": "- wiek,",
+      "paragraph3ListItem2": "- płeć,",
+      "paragraph3ListItem3": "- miejsce,",
+      "paragraph3ListItem4": "- języki,",
+      "paragraph3ListItem5": "- zainteresowania,",
+      "paragraph3ListItem6": "- opinie, poglądy i preferencje",
+      "paragraph4": "Hairo szuka osoby lub grupy(do 5 osób) przez tydzień, aż do skutku.",
+      "paragraph5": "Po znalezieniu wszyscy dostajecie powitalnego maila z dostępem do Waszej prywatnej przestrzeni wraz z propozycją spotkania.",
+      "paragraph6": "Pozostaje jedynie zaakceptować spotkanie i powitać nowych ludzi, nowe możliwości.",
+      "paragraph7FirstPart": "Dzisiaj jest to możliwe.",
+      "paragraph7SecondPart": "Dwa kliknięcia: szukaj i zaakceptuj spotkanie."
+    },
+    "add2": {
+      "title": "Reklama 2",
+      "paragraph1": "Jesteś otoczony/a przez bandę ...?! 🐒",
+      "paragraph2": "Twoje towarzystwo jest niedopasowane, a Ty nie masz czasu na update? ⏳",
+      "paragraph3": "A może masz ciekawe hobby lub zainteresowania, które chciałbyś/abyś rozwijać i dzielić z podobnymi Tobie pasjonatami/kami? 🔥",
+      "paragraph4": "Zleć nam znalezienie dopasowanego do Ciebie towarzystwa. 😎",
+      "paragraph5": "Jak to działa? 💡",
+      "list1Item1": "- zlecasz Hairo znalezienie grupy lub osoby",
+      "list1Item2": "- wprowadzasz opis: wiek, płeć, odległość, języki i tagi",
+      "list1Item3": "- aplikacja szuka przez tydzień",
+      "list1Item4": "- po znalezieniu tworzymy dla Was przestrzeń, czyli komunikator tekstowy i pokój do rozmów audio/video",
+      "list1Item5": "- Hairo proponuje spotkanie w pokoju o konkretnej godzinie",
+      "paragraph6": "Czyli całość sprowadza się do:",
+      "list2Item1": "- wprowadzenia opisu kogo chcesz znaleźć",
+      "list2Item2": "- powiadomienia email o znalezieniu grupy/osoby",
+      "list2Item3": "- zaakceptowania propozycji spotkania",
+      "paragraph7": "Nie bądź otoczony przez bandę... 🐒",
+      "paragraph8": "Zleć nam update. 🚀"
+    },
+    "creatorsTitle": "Twórcy",
+    "creatorsParagraph": "Całość została stworzona przez nas, braci, dwóch programistów."
+  },
   "shared": {
     "language": {
       "interslavic": {
@@ -400,20 +444,17 @@
         "NO_MICROPHONE_PERMISSIONS": "Błąd dostępu do mikrofonu użytkownika, sprawdź ustawienia przeglądarki, aby upewnić się, że odpowiednie uprawnienia są nadane",
         "NO_CAMERA_PERMISSIONS": "Błąd dostępu do kamery użytkownika, sprawdź ustawienia przeglądarki, aby upewnić się, że odpowiednie uprawnienia są nadane",
         "EMPTY_DESCRIPTION": "Nie wprowadzono opisu",
-
         "MEET_UP_NO_AGREE": "Musisz zaakceptować regulamin Hairo.",
         "CRITERIA_SEX_NOT_SELECTED": "Nie wybrano płci",
         "CRITERIA_LANGUAGES_NOT_SELECTED": "Nie wybrano języków",
         "CRITERIA_USERS_NOT_SELECTED": "Nie wybrano typu konta użytkownika",
         "CRITERIA_LOCATION_NOT_SELECTED": "Nie ustawiono odległości",
         "CRITERIA_INVALID_COORDINATES": "Niepoprawne koordynaty",
-
         "GROUP_CRITERIA_SEX_NOT_SELECTED": "Nie wybrano płci",
         "GROUP_CRITERIA_LANGUAGES_NOT_SELECTED": "Nie wybrano języków",
         "GROUP_CRITERIA_USERS_NOT_SELECTED": "Nie wybrano typu konta użytkownika",
         "GROUP_CRITERIA_LOCATION_NOT_SELECTED": "Nie ustawiono odległości",
         "GROUP_CRITERIA_INVALID_COORDINATES": "Niepoprawne koordynaty",
-
         "MEMBER_NOT_SELECTED_MEMBER_REMOVAL_VOTING": "Nie wybrano osoby",
         "INVITEE_NOT_SELECTED_FOR_INVITATION_VOTING": "Nie wybrano osoby",
         "MEETING_PLACE_ERROR": "Miejsce nie powinno być puste i może zawierać maksymalnie 125 znaków",
@@ -474,13 +515,11 @@
         "USER_CHANGE_CODE_EXPIRED": "Podany kod wygasł",
         "BODY_TOO_LARGE": "Rozmiar przesłanych danych przekracza dopuszczalny limit. Maksymalny dozwolony rozmiar to 5mb",
         "INVALID_USER_CHANGE_CODE": "Podano nieprawidłowy kod",
-
         "API_UNAVAILABLE": "Serwer jest tymczasowo niedostępny. Daj nam chwilę, pracujemy nad tym",
         "SEARCH_CRITERIA_TOO_MANY_TAGS": "Użyto zbyt dużo tagów. Dozwolonych jest maksymalnie 50 tagów.",
         "SEARCH_CRITERIA_DUPLICATED_TAGS": "Tagi nie mogą się powtarzać.",
         "SEARCH_CRITERIA_TOO_MANY_LANGUAGES": "Wprowadzono zbyt dużo języków.",
         "SEARCH_CRITERIA_DUPLICATED_LANGUAGES": "Języki nie mogą się powtarzać",
-
         "USER_NAME_UPDATE_TOO_OFTEN": "Możesz zmienić imię maksymalnie raz w tygodniu",
         "USER_DOES_NOT_EXIST": "Podany użytkownik nie istnieje",
         "INVALID_PAGE_NUMBER": "INVALID_PAGE_NUMBER",
@@ -502,16 +541,13 @@
         "USER_SECOND_FACTOR_AUTHENTICATION_EXPIRED": "USER_SECOND_FACTOR_AUTHENTICATION_EXPIRED",
         "USER_SECOND_FACTOR_AUTHENTICATION_INVALID_CODE": "USER_SECOND_FACTOR_AUTHENTICATION_INVALID_CODE",
         "USER_SECOND_FACTOR_AUTHENTICATION_CODE_REQUIRED": "USER_SECOND_FACTOR_AUTHENTICATION_CODE_REQUIRED",
-
         "USER_NOT_ACTIVATED": "Konto nie zostało aktywowane",
         "USER_INVALID_PASSWORD": "Podane hasło jest nieprawidłowe",
         "INVALID_USER_NAME": "INVALID_USER_NAME",
         "USER_DESCRIPTION_TOO_LONG": "Twój opis jest zbyt długi",
-
         "INVALID_AUTHENTICATION_TOKEN": "INVALID_AUTHENTICATION_TOKEN",
         "BLOCKED_AUTHENTICATION_TOKEN": "BLOCKED_AUTHENTICATION_TOKEN",
         "EXPIRED_AUTHENTICATION_TOKEN": "EXPIRED_AUTHENTICATION_TOKEN",
-
         "SEARCH_REQUEST_DOES_NOT_EXIST": "SEARCH_REQUEST_DOES_NOT_EXIST",
         "SEARCH_REQUEST_CRITERIA_REQUIRED": "SEARCH_REQUEST_CRITERIA_REQUIRED",
         "SEARCH_REQUEST_TYPE_REQUIRED": "SEARCH_REQUEST_TYPE_REQUIRED",
@@ -523,25 +559,19 @@
         "USER_SEARCH_REQUEST_MISMATCH": "USER_SEARCH_REQUEST_MISMATCH",
         "USER_ACCOUNT_TYPE_REQUIRED": "USER_ACCOUNT_TYPE_REQUIRED",
         "USER_NOT_VERIFIED_VERIFIED_CRITERIA": "USER_NOT_VERIFIED_VERIFIED_CRITERIA",
-
         "IMAGE_UPLOAD_FAILURE": "IMAGE_UPLOAD_FAILURE",
         "VIDEO_UPLOAD_FAILURE": "VIDEO_UPLOAD_FAILURE",
         "FILE_PATH_REQUIRED": "FILE_PATH_REQUIRED",
         "INVALID_IMAGE_EXTENSION": "INVALID_IMAGE_EXTENSION",
         "INVALID_VIDEO_EXTENSION": "INVALID_VIDEO_EXTENSION",
-
         "PENDING_USER_VERIFICATION": "PENDING_USER_VERIFICATION",
         "USER_IS_VERIFIED": "Użytkownik jest już zweryfikowany",
         "USER_VERIFICATION_DOES_NOT_EXIST": "USER_VERIFICATION_DOES_NOT_EXIST",
-
         "INVALID_LATITUDE": "Nieprawidłowa szerokość geograficzna",
         "INVALID_LONGITUDE": "Nieprawidłowa długość geograficzna",
-
         "HTML_CHARACTERS": "Niedozwolone znaki html",
-
         "SEARCH_REQUEST_MATCH_DOES_NOT_EXIST": "SEARCH_REQUEST_MATCH_DOES_NOT_EXIST",
         "SEARCH_REQUEST_MATCH_IS_NOT_UP_TO_DATE": "SEARCH_REQUEST_MATCH_IS_NOT_UP_TO_DATE",
-
         "INVALID_GROUP_NAME": "Imię powinno zawierać co najmniej 2 znaki i jedną literę",
         "GROUP_DOES_NOT_EXIST": "GROUP_DOES_NOT_EXIST",
         "UNREACHABLE_EMAIL": "Domena podanego emaila jest niedostępna",
@@ -564,7 +594,6 @@
         "USER_INVITED": "Użytkownik jest już zaproszony",
         "FRIENDSHIP_EXISTS": "FRIENDSHIP_EXISTS",
         "FRIENDSHIP_DOES_NOT_EXIST": "FRIENDSHIP_DOES_NOT_EXIST",
-
         "NOTIFICATION_DETAILS_DOES_NOT_EXIST": "NOTIFICATION_DETAILS_DOES_NOT_EXIST",
         "NOTIFICATION_TYPE_DOES_NOT_HAVE_DETAILS": "NOTIFICATION_TYPE_DOES_NOT_HAVE_DETAILS",
         "NOT_USER_GROUP": "NOT_USER_GROUP",
@@ -584,20 +613,13 @@
         "MEETING_PROPOSITION_DESCRIPTION_TOO_LONG": "MEETING_PROPOSITION_DESCRIPTION_TOO_LONG",
         "GROUP_LEAVE_REQUEST_WILL_BE_EXECUTED": "GROUP_LEAVE_REQUEST_WILL_BE_EXECUTED",
         "USER_NOT_IN_CIRCLE": "USER_NOT_IN_CIRCLE",
-
         "BOT_USER": "BOT_USER",
-
         "GROUP_IS_FULL": "Grupa osiągnęła maksymalny rozmiar",
-
         "GROUP_INVITEES_REQUIRED": "Musisz zaprosić co najmniej jednego użytkownika do grupy",
-
         "NOTIFICATION_DETAILS_INVALID_DATA": "NOTIFICATION_DETAILS_INVALID_DATA",
-
         "TOO_MANY_USERS_PREVIEWS_IDS": "TOO_MANY_USERS_PREVIEWS_IDS",
         "TOO_MANY_GROUPS_PREVIEWS_IDS": "TOO_MANY_GROUPS_PREVIEWS_IDS",
-
         "INVALID_PHONE_NUMBER": "INVALID_PHONE_NUMBER",
-
         "USER_DOES_NOT_HAVE_PHONE_NUMBER": "USER_DOES_NOT_HAVE_PHONE_NUMBER",
         "USER_PHONE_NUMBER_UPDATE_LIMITED": "USER_PHONE_NUMBER_LIMITED",
         "USER_PHONE_NUMBER_VERIFICATION_DOES_NOT_EXIST": "USER_PHONE_NUMBER_VERIFICATION_DOES_NOT_EXIST",
@@ -605,12 +627,10 @@
         "USER_CHANGED_PHONE_NUMBER": "USER_CHANGED_PHONE_NUMBER",
         "INVALID_USER_PHONE_NUMBER_VERIFICATION_CODE": "INVALID_USER_PHONE_NUMBER_VERIFICATION_CODE",
         "NO_INVITATION_RESULT": "NO_INVITATION_RESULT",
-
         "INVALID_TAG_EMPTY": "Tag musi zawierać co najmniej jeden znak",
         "INVALID_TAG_TOO_LONG": "Tag może mieć maksymalnie 100 znaków",
         "INVALID_TAG_TOO_LONG_DESCRIPTION": "INVALID_TAG_TOO_LONG_DESCRIPTION",
         "USER_CREATED_TOO_MANY_TAGS_LAST_DAY": "Stworzono zbyt dużo tagów w ciągu ostatnich 24 godzin. Spróbuj ponownie jutro",
-
         "ONLY_ADMIN_OR_PUBLIC_PERSON_IS_ALLOWED": "ONLY_ADMIN_OR_PUBLIC_PERSON_IS_ALLOWED",
         "MAX_ALLOWED_SPECIAL_TAGS_EXCEEDED": "MAX_ALLOWED_SPECIAL_TAGS_EXCEEDED",
         "TAG_DOES_NOT_EXIST": "TAG_DOES_NOT_EXIST",
@@ -618,9 +638,7 @@
         "TOO_MANY_TAGS": "TOO_MANY_TAGS",
         "TAG_IS_USED": "TAG_IS_USED",
         "GROUP_IS_NOT_ESTABLISHED": "Grupa jest w fazie inicjacji i nie może być modyfikowana",
-
         "USER_BLACKLIST_TOO_LARGE": "Twoja lista zakazanych użytkowników jest zbyt duża",
-
         "USER_REPORT_REASON_REQUIRED": "USER_REPORT_REASON_REQUIRED",
         "USER_REPORT_DESCRIPTION_REQUIRED": "USER_REPORT_DESCRIPTION_REQUIRED",
         "USER_REPORT_DESCRIPTION_TOO_LONG": "USER_REPORT_DESCRIPTION_TOO_LONG",
@@ -629,12 +647,9 @@
         "CONTACT_MESSAGE_CONTENT_REQUIRED": "CONTACT_MESSAGE_CONTENT_REQUIRED",
         "CONTACT_MESSAGE_CONTENT_TOO_LONG": "CONTACT_MESSAGE_CONTENT_TOO_LONG",
         "CONTACT_MESSAGE_DOES_NOT_EXIST": "CONTACT_MESSAGE_DOES_NOT_EXIST",
-
         "USER_IS_BANNED": "USER_IS_BANNED",
         "USER_IS_NOT_BANNED": "USER_IS_NOT_BANNED",
-
         "FROM_DATE_AFTER_TO_DATE": "FROM_DATE_AFTER_TO_DATE",
-
         "MEETING_DOES_NOT_EXIST": "MEETING_DOES_NOT_EXIST",
         "MEETING_DATE_TOO_EARLY": "MEETING_DATE_TOO_EARLY",
         "MEETING_WINDOW_NOT_AVAILABLE": "MEETING_WINDOW_NOT_AVAILABLE"

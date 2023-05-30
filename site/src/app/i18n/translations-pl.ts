@@ -1,5 +1,49 @@
 
 export const translations: any = {
+  archive: {
+    contextTitle: 'Kontekst',
+    context: 'Kiedyś żyła tutaj aplikacja Hairo, która była pierwszym, zautomatyzowanym systemem do poznawania ludzi. Pisaliśmy ją z myślą o tym, aby maksymalnie proste stało się znalezienie osób z którymi się dogadujemy i utrzymywanie z nimi kontaktu. Po roku od jej publikacji i zgromadzeniu blisko 1500 użytkowników, zdecydowaliśmy się ją zarchiwizować wraz z dniem 28-05-2023.',
+    howItWorkedTitle: 'Działanie',
+    howItWorked: 'Dwie reklamy opisujące działanie Hairo:',
+    add1: {
+      title: 'Reklama 1',
+      paragraph1: 'Automat do... poznawania ludzi. Co?!',
+      paragraph2: 'Wyobraź sobie dwa kliknięcia: szukaj i zaakceptuj spotkanie.',
+      paragraph3: 'Podajesz opis człowieka:',
+      paragraph3ListItem1: '- wiek,',
+      paragraph3ListItem2: '- płeć,',
+      paragraph3ListItem3: '- miejsce,',
+      paragraph3ListItem4: '- języki,',
+      paragraph3ListItem5: '- zainteresowania,',
+      paragraph3ListItem6: '- opinie, poglądy i preferencje',
+      paragraph4: 'Hairo szuka osoby lub grupy(do 5 osób) przez tydzień, aż do skutku.',
+      paragraph5: 'Po znalezieniu wszyscy dostajecie powitalnego maila z dostępem do Waszej prywatnej przestrzeni wraz z propozycją spotkania.',
+      paragraph6: 'Pozostaje jedynie zaakceptować spotkanie i powitać nowych ludzi, nowe możliwości.',
+      paragraph7FirstPart: 'Dzisiaj jest to możliwe.',
+      paragraph7SecondPart: 'Dwa kliknięcia: szukaj i zaakceptuj spotkanie.'
+    },
+    add2: {
+      title: 'Reklama 2',
+      paragraph1: 'Jesteś otoczony/a przez bandę ...?! 🐒',
+      paragraph2: 'Twoje towarzystwo jest niedopasowane, a Ty nie masz czasu na update? ⏳',
+      paragraph3: 'A może masz ciekawe hobby lub zainteresowania, które chciałbyś/abyś rozwijać i dzielić z podobnymi Tobie pasjonatami/kami? 🔥',
+      paragraph4: 'Zleć nam znalezienie dopasowanego do Ciebie towarzystwa. 😎',
+      paragraph5: 'Jak to działa? 💡',
+      list1Item1: '- zlecasz Hairo znalezienie grupy lub osoby',
+      list1Item2: '- wprowadzasz opis: wiek, płeć, odległość, języki i tagi',
+      list1Item3: '- aplikacja szuka przez tydzień',
+      list1Item4: '- po znalezieniu tworzymy dla Was przestrzeń, czyli komunikator tekstowy i pokój do rozmów audio/video',
+      list1Item5: '- Hairo proponuje spotkanie w pokoju o konkretnej godzinie',
+      paragraph6: 'Czyli całość sprowadza się do:',
+      list2Item1: '- wprowadzenia opisu kogo chcesz znaleźć',
+      list2Item2: '- powiadomienia email o znalezieniu grupy/osoby',
+      list2Item3: '- zaakceptowania propozycji spotkania',
+      paragraph7: 'Nie bądź otoczony przez bandę... 🐒',
+      paragraph8: 'Zleć nam update. 🚀'
+    },
+    creatorsTitle: 'Twórcy',
+    creatorsParagraph: 'Całość została stworzona przez nas, braci, dwóch programistów.'
+  },
   shared: {
     language: {
       interslavic: {

@@ -112,12 +112,9 @@
     <div
         class="app-archive content m-t-20 m-b-10 w-clamp-min-90-800 p-7 rounded-4 m-x-auto box-shadow-2-11"
     >
-        <h2>Kontekst</h2>
+        <h2>{{ $translations.archive.contextTitle }}</h2>
 
-        <p>
-            Kiedyś żyła tutaj aplikacja Hairo, która była pierwszym, zautomatyzowanym systemem do poznawania ludzi. Pisaliśmy ją z myślą o tym, aby maksymalnie proste stało się znalezienie osób z którymi się dogadujemy i utrzymywanie z nimi kontaktu.
-            Po roku od jej publikacji i zgromadzeniu blisko 1500 użytkowników, zdecydowaliśmy się ją zarchiwizować wraz z dniem 28-05-2023.
-        </p>
+        <p>{{ $translations.archive.context }}</p>
 
         <div class="grid grid-cols-2 gap-4 mt-10">
             <div class="object-cover aspect-square">
@@ -147,30 +144,31 @@
             </div>
         </div>
 
-        <h2>Działanie</h2>
-        <p>Dwie reklamy opisujące działanie Hairo:</p>
+        <h2>{{ $translations.archive.howItWorkedTitle }}</h2>
+        <p>{{ $translations.archive.howItWorked }}</p>
 
-        <h3>Reklama 1</h3>
+        <h3>{{ $translations.archive.add1.title }}</h3>
         <blockquote>
-            <p>Automat do... poznawania ludzi. Co?!</p>
-            <p>Wyobraź sobie dwa kliknięcia: szukaj i zaakceptuj spotkanie.</p>
-            <p>Podajesz opis człowieka:</p>
+            <p>{{ $translations.archive.add1.paragraph1 }}</p>
+            <p>{{ $translations.archive.add1.paragraph2 }}</p>
+            <p>{{ $translations.archive.add1.paragraph3 }}</p>
             <ul>
-                <li>wiek,</li>
-                <li>płeć,</li>
-                <li>miejsce,</li>
-                <li>języki,</li>
-                <li>zainteresowania,</li>
-                <li>opinie, poglądy i preferencje</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem1 }}</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem2 }}</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem3 }}</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem4 }}</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem5 }}</li>
+                <li>{{ $translations.archive.add1.paragraph3ListItem6 }}</li>
             </ul>
 
-            <p>Hairo szuka osoby lub grupy(do 5 osób) przez tydzień, aż do skutku.</p>
+            <p>{{ $translations.archive.add1.paragraph4 }}</p>
 
-            <p>Po znalezieniu wszyscy dostajecie powitalnego maila z dostępem do Waszej prywatnej przestrzeni wraz z propozycją spotkania.</p>
-            <p>Pozostaje jedynie zaakceptować spotkanie i powitać nowych ludzi, nowe możliwości.</p>
+            <p>{{ $translations.archive.add1.paragraph5 }}</p>
+            <p>{{ $translations.archive.add1.paragraph6 }}</p>
             <p>
-                Dzisiaj jest to możliwe.
-                <br />Dwa kliknięcia: szukaj i zaakceptuj spotkanie.
+                {{ $translations.archive.add1.paragraph7FirstPart }}
+                <br />
+                {{ $translations.archive.add1.paragraph7SecondPart }}
             </p>
         </blockquote>
 
@@ -187,33 +185,33 @@
         </div>
 
         <br />
-        <h3>Reklama 2</h3>
+        <h3>{{ $translations.archive.add2.title }}</h3>
 
         <blockquote>
-            <p>Jesteś otoczony/a przez bandę ...?! 🐒</p>
+            <p>{{ $translations.archive.add2.paragraph1 }}</p>
 
-            <p>Twoje towarzystwo jest niedopasowane, a Ty nie masz czasu na update? ⏳</p>
-            <p>A może masz ciekawe hobby lub zainteresowania, które chciałbyś/abyś rozwijać i dzielić z podobnymi Tobie pasjonatami/kami? 🔥</p>
-            <p>Zleć nam znalezienie dopasowanego do Ciebie towarzystwa. 😎</p>
-            <p>Jak to działa? 💡</p>
+            <p>{{ $translations.archive.add2.paragraph2 }}</p>
+            <p>{{ $translations.archive.add2.paragraph3 }}</p>
+            <p>{{ $translations.archive.add2.paragraph4 }}</p>
+            <p>{{ $translations.archive.add2.paragraph5 }}</p>
 
             <ul>
-                <li>zlecasz Hairo znalezienie grupy lub osoby</li>
-                <li>wprowadzasz opis: wiek, płeć, odległość, języki i tagi</li>
-                <li>aplikacja szuka przez tydzień</li>
-                <li>po znalezieniu tworzymy dla Was przestrzeń, czyli komunikator tekstowy i pokój do rozmów audio/video</li>
-                <li>Hairo proponuje spotkanie w pokoju o konkretnej godzinie</li>
+                <li>{{ $translations.archive.add2.list1Item1 }}</li>
+                <li>{{ $translations.archive.add2.list1Item2 }}</li>
+                <li>{{ $translations.archive.add2.list1Item3 }}</li>
+                <li>{{ $translations.archive.add2.list1Item4 }}</li>
+                <li>{{ $translations.archive.add2.list1Item5 }}</li>
             </ul>
 
-            <p>Czyli całość sprowadza się do:</p>
+            <p>{{ $translations.archive.add2.paragraph6 }}</p>
             <ul>
-                <li>wprowadzenia opisu kogo chcesz znaleźć</li>
-                <li>powiadomienia email o znalezieniu grupy/osoby</li>
-                <li>zaakceptowania propozycji spotkania</li>
+                <li>{{ $translations.archive.add2.list2Item1 }}</li>
+                <li>{{ $translations.archive.add2.list2Item2 }}</li>
+                <li>{{ $translations.archive.add2.list2Item3 }}</li>
             </ul>
 
-            <p>Nie bądź otoczony przez bandę... 🐒</p>
-            <p>Zleć nam update. 🚀</p>
+            <p>{{ $translations.archive.add2.paragraph7 }}</p>
+            <p>{{ $translations.archive.add2.paragraph8 }}</p>
         </blockquote>
 
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -228,14 +226,17 @@
             />
         </div>
 
-        <h2>Twórcy</h2>
+        <h2>{{ $translations.archive.creatorsTitle }}</h2>
 
-        <p>Całość została stworzona przez nas, braci, dwóch programistów.</p>
+        <p>{{ $translations.archive.creatorsParagraph }}</p>
         <a href="https://igor.roztropinski.com" target="_blank">
             <em>Igor Roztropiński</em>
         </a>
         <br />
-        <a href="https://aleksander.roztropinski.com" target="_blank">
+        <a
+            href="https://www.linkedin.com/in/aleksander-roztropi%C5%84ski-226587180/"
+            target="_blank"
+        >
             <em>Aleksander Roztropiński</em>
         </a>
     </div>

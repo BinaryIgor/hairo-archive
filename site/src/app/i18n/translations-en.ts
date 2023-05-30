@@ -1,5 +1,49 @@
 
 export const translations: any = {
+  archive: {
+    contextTitle: 'Context',
+    context: 'Once upon a time, the Hairo app existed here, which was the first, automated system for meeting people. We created it to make finding new people with whom we get along well, and keeping in touch with them, as simple as possible. After a year of its publication and gathering close to 1500 users, we decided to archive it on May 29, 2023.',
+    howItWorkedTitle: 'How it worked',
+    howItWorked: 'Two ads describing how Hairo works:',
+    add1: {
+      title: 'Add 1',
+      paragraph1: 'Machine to... meet people. What?!',
+      paragraph2: 'Imagine two clicks: search and accept the meeting.',
+      paragraph3: 'You give a description of a human:',
+      paragraph3ListItem1: '- age,',
+      paragraph3ListItem2: '- sex,',
+      paragraph3ListItem3: '- location,',
+      paragraph3ListItem4: '- languages,',
+      paragraph3ListItem5: '- interests,',
+      paragraph3ListItem6: '- opinions, views and preferences',
+      paragraph4: 'Hairo searches for a person or group (up to 5 people) for a week until it succeeds.',
+      paragraph5: 'After finding, you all get a welcome email with access to your private space along with a meeting proposition.',
+      paragraph6: 'All you need to do is to accept the meeting and welcome new people, new opportunities.',
+      paragraph7FirstPart: 'Today, it is possible.',
+      paragraph7SecondPart: 'Two clicks: search and accept the meeting.'
+    },
+    add2: {
+      title: 'Add 2',
+      paragraph1: 'Are you surrounded by a bunch of ...?! 🐒',
+      paragraph2: "Your company is mismatched, and you don't have time for an update? ⏳",
+      paragraph3: "Or perhaps you have interesting hobbies or passions that you'd like to develop and share with like-minded enthusiasts? 🔥",
+      paragraph4: 'Let us find the perfect company for you. 😎',
+      paragraph5: 'How does it work? 💡',
+      list1Item1: '- you assign Hairo a task of finding a group or individual for you',
+      list1Item2: '- you provide a description: age, gender, distance, languages, and tags',
+      list1Item3: '- the app searches for a week',
+      list1Item4: '- once a match is found, we create a private space for you, including text messenger and  audio/video chat room',
+      list1Item5: '- Hairo proposes a meeting at the specific time in your private room',
+      paragraph6: 'So, it all comes down to:',
+      list2Item1: '- providing a description of who you want to find',
+      list2Item2: '- receiving email notification about finding a group or individual',
+      list2Item3: '- accepting meeting proposition',
+      paragraph7: "Don't be surrounded by a bunch of... 🐒",
+      paragraph8: 'Entrust us with the update. 🚀'
+    },
+    creatorsTitle: 'Creators',
+    creatorsParagraph: 'The whole thing was created by us, brothers, two programmers.'
+  },
   shared: {
     language: {
       interslavic: {
