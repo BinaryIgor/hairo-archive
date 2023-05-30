@@ -29,3 +29,19 @@ export const volumeOffIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path'
 export const volumeOnIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path' } = {}) => {
     return `<svg class="${svgClass}" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 48 48" height="48px" viewBox="0 0 48 48" width="48px" fill="#000000"><path class="${pathClass}" d="M28 41.45v-3.1q4.85-1.4 7.925-5.375T39 23.95q0-5.05-3.05-9.05-3.05-4-7.95-5.35v-3.1q6.2 1.4 10.1 6.275Q42 17.6 42 23.95t-3.9 11.225Q34.2 40.05 28 41.45ZM24 40 14 30H6V18h8L24 8Zm3-7.6V15.55q2.7.85 4.35 3.2Q33 21.1 33 24q0 2.95-1.65 5.25T27 32.4Z"/></svg>`;
 }
+
+export const leftArrowIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path' } = {}) => {
+    return `<svg class="${svgClass}" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path class="${pathClass}" d="M655-80 255-480l400-400 56 57-343 343 343 343-56 57Z"/></svg>`
+}
+
+export const rightArrowIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path' } = {}) => {
+    return `<svg class="${svgClass}" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path class="${pathClass}" d="m304-82-56-57 343-343-343-343 56-57 400 400L304-82Z"/></svg>`
+}
+
+export const zoomInIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path' } = {}) => {
+    return `<svg class="${svgClass}" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path class="${pathClass}" d="M796-121 533-384q-30 26-69.959 40.5T378-329q-108.162 0-183.081-75Q120-479 120-585t75-181q75-75 181.5-75t181 75Q632-691 632-584.85 632-542 618-502q-14 40-42 75l264 262-44 44ZM377-389q81.25 0 138.125-57.5T572-585q0-81-56.875-138.5T377-781q-82.083 0-139.542 57.5Q180-666 180-585t57.458 138.5Q294.917-389 377-389Zm-31-85v-82h-82v-60h82v-81h60v81h81v60h-81v82h-60Z"/></svg>`
+}
+
+export const zoomOutIcon = ({ svgClass = 'icon__svg', pathClass = 'icon__path' } = {}) => {
+    return `<svg class="${svgClass}" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path class="${pathClass}" d="M796-121 533-384q-30 26-69.959 40.5T378-329q-108.162 0-183.081-75Q120-479 120-585t75-181q75-75 181.5-75t181 75Q632-691 632-584.85 632-542 618-502q-14 40-42 75l264 262-44 44ZM377-389q81.25 0 138.125-57.5T572-585q0-81-56.875-138.5T377-781q-82.083 0-139.542 57.5Q180-666 180-585t57.458 138.5Q294.917-389 377-389ZM275-556v-60h201v60H275Z"/></svg>`
+}

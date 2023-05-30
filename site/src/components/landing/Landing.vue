@@ -36,6 +36,13 @@ export default defineComponent({
     }
   },
 
+  unmounted() {
+    if (this.hairoAudio) {
+      this.hairoAudio.pause();
+      this.hairoAudio = null;
+    }
+  },
+
   methods: {
     audioIcon() {
       if (this.voiceOff) {

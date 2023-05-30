@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /* 
     app specific styles
 */
@@ -1527,6 +1530,18 @@ select:-webkit-autofill:focus {
 
 .w-clamp-min-95-700 {
   width: clamp(1px, 95%, 700px);
+}
+
+.w-clamp-min-95-750 {
+  width: clamp(1px, 95%, 750px);
+}
+
+.w-clamp-min-90-800 {
+  width: clamp(1px, 90%, 800px);
+}
+
+.w-clamp-min-95-800 {
+  width: clamp(1px, 95%, 800px);
 }
 /* ==width== */
 
