@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-remote_host="hairo@archive.hairo.io"
+remote_host="hairo@hairo.io"
 email="wirtuokracja@gmail.com"
 
 ssh $remote_host "
@@ -14,7 +14,7 @@ echo 'Certbot configured, generating certs...'
 
 sudo systemctl stop nginx
 
-sudo certbot certonly --standalone --non-interactive --agree-tos --email ${email} -v --domains \"archive.hairo.io\"
+sudo certbot certonly --standalone --non-interactive --agree-tos --email ${email} -v --domains \"hairo.io\"
 
 echo
 echo 'Certbot set, setting up pre and post renew scripts...'
