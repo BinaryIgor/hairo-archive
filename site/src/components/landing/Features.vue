@@ -144,7 +144,7 @@ export default defineComponent({
       lexFridmanImage: lexFridmanImage,
       webDevSimplifiedImage: webDevSimplifiedImage,
       kimJungGiImage: kimJungGiImage,
-      intervalId: null as null | NodeJS.Timeout,
+      intervalId: null as null | any,
       pressed: false,
       startX: 0,
       x: 0
@@ -263,7 +263,7 @@ export default defineComponent({
     },
 
     clearSliderInterval(): void {
-      clearInterval(this.intervalId as NodeJS.Timeout);
+      clearInterval(this.intervalId as any);
       this.intervalId = null;
     }
   },

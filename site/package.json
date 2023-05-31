@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "npm run translate && vite",
     "compile": "vue-tsc --noEmit",
-    "build": "npm run translate && npm run compile && vite build",
+    "build": "npm run translate && npm run compile && vite build && npm run hashImages",
     "serve": "vite preview",
-    "translate": "node scripts/generate-translations.js"
+    "translate": "node scripts/generate-translations.js",
+    "hashImages": "node scripts/hash-images.js"
   },
   "dependencies": {
     "vue": "^3.0.5",

@@ -6,7 +6,7 @@ export const translations: any = {
     howItWorkedTitle: 'How it worked',
     howItWorked: 'Two ads describing how Hairo works:',
     add1: {
-      title: 'Add 1',
+      title: 'Ad 1',
       paragraph1: 'Machine to... meet people. What?!',
       paragraph2: 'Imagine two clicks: search and accept the meeting.',
       paragraph3: 'You give a description of a human:',
@@ -23,7 +23,7 @@ export const translations: any = {
       paragraph7SecondPart: 'Two clicks: search and accept the meeting.'
     },
     add2: {
-      title: 'Add 2',
+      title: 'Ad 2',
       paragraph1: 'Are you surrounded by a bunch of ...?! 🐒',
       paragraph2: "Your company is mismatched, and you don't have time for an update? ⏳",
       paragraph3: "Or perhaps you have interesting hobbies or passions that you'd like to develop and share with like-minded enthusiasts? 🔥",
