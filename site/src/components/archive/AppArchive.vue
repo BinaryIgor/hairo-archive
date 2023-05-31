@@ -44,13 +44,15 @@
         </div>
         <div class="max-w-[85%] max-h-full overflow-auto">
             <div class="w-full h-auto" ref="image">
-                <img
-                    id="image-viewer-1"
-                    :class="{ 'invisible': !gallery1[currentImageIdOfGallery1]?.fullImage }"
-                    class="object-contain w-full h-full"
-                    :src="gallery1[currentImageIdOfGallery1]?.fullImage"
-                    alt
-                />
+                <ImageLoader ref="image-loader-1">
+                    <img
+                        @load="setLoading('image-loader-1', false)"
+                        id="image-viewer-1"
+                        class="object-contain w-full h-full"
+                        :src="gallery1[currentImageIdOfGallery1]?.fullImage"
+                        alt
+                    />
+                </ImageLoader>
             </div>
         </div>
     </div>
@@ -98,15 +100,17 @@
                 ></div>
             </button>
         </div>
-        <div class="max-w-[450px] max-h-full overflow-auto">
+        <div class="max-w-[450px] max-h-full min-w-[100px] overflow-auto">
             <div class="w-full h-auto" ref="image">
-                <img
-                    id="image-viewer-2"
-                    :class="{ 'invisible': !gallery2[currentImageIdOfGallery2]?.fullImage }"
-                    class="object-contain w-full h-full"
-                    :src="gallery2[currentImageIdOfGallery2]?.fullImage"
-                    alt
-                />
+                <ImageLoader ref="image-loader-2">
+                    <img
+                        @load="setLoading('image-loader-2', false)"
+                        id="image-viewer-2"
+                        class="object-contain w-full h-full"
+                        :src="gallery2[currentImageIdOfGallery2]?.fullImage"
+                        alt
+                    />
+                </ImageLoader>
             </div>
         </div>
     </div>
@@ -251,6 +255,7 @@ import mobileVideo from '../../assets/videos/mobile_app.mp4';
 import desktopVideo from '../../assets/videos/desktop_app.mp4';
 import { leftArrowIcon, rightArrowIcon, closeIcon, zoomInIcon, zoomOutIcon } from '../../core/shared/icons/icons';
 import { Images } from "../../core/archive/images/images";
+import ImageLoader from "./ImageLoader.vue";
 
 class GalleryImage {
     constructor(public thumbImage: string, public fullImage: string) { }
@@ -264,7 +269,8 @@ type Gallery = { [id: string]: { thumbImage: string, fullImage: string } };
 
 export default defineComponent({
     components: {
-        Footer
+        Footer,
+        ImageLoader
     },
 
     data() {
@@ -354,6 +360,10 @@ export default defineComponent({
     },
 
     methods: {
+        setLoading(ref: string, loaded: boolean) {
+            (this.$refs[ref] as InstanceType<typeof ImageLoader>).setLoading(loaded);
+        },
+
         prevGallery1() {
             const index = Object.keys(this.gallery1).findIndex(id => id == this.currentImageIdOfGallery1);
             const galleryLength = Object.keys(this.gallery1).length;
@@ -420,6 +430,7 @@ export default defineComponent({
                 this.$nextTick(() => {
                     const element = document.getElementById('image-viewer-1') as HTMLImageElement;
                     if (element) {
+                        (this.$refs['image-loader-1'] as InstanceType<typeof ImageLoader>).setLoading(true)
                         element.src = Images[imageId].fullImagePath
                         this.gallery1[imageId].fullImage = element.src
                         this.display1 = true;
@@ -438,6 +449,7 @@ export default defineComponent({
                 this.$nextTick(() => {
                     const element = document.getElementById('image-viewer-2') as HTMLImageElement;
                     if (element) {
+                        (this.$refs['image-loader-2'] as InstanceType<typeof ImageLoader>).setLoading(true)
                         element.src = Images[imageId].fullImagePath
                         this.gallery2[imageId].fullImage = element.src
                         this.display2 = true;
