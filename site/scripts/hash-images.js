@@ -78,313 +78,313 @@ async function hashImagePaths(images) {
 const Images = {
     ACTIVE_ORDERS: {
         id: 'ACTIVE_ORDERS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_active-orders.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/active-orders.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_active-orders.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/active-orders.jpg'
     },
     BOT_SETTINGS: {
         id: 'BOT_SETTINGS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_bot-settings.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/bot-settings.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_bot-settings.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/bot-settings.jpg'
     },
     CREATE_ACCOUNT: {
         id: 'CREATE_ACCOUNT',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-account.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/create-account.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-account.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/create-account.jpg'
     },
     CREATE_INVITATION_2: {
         id: 'CREATE_INVITATION_2',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation-2.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation-2.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation-2.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation-2.jpg'
     },
     CREATE_INVITATION_3: {
         id: 'CREATE_INVITATION_3',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation-3.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation-3.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation-3.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation-3.jpg'
     },
     CREATE_INVITATION: {
         id: 'CREATE_INVITATION',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_create-invitation.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/create-invitation.jpg'
     },
     EMOTICONS: {
         id: 'EMOTICONS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_emoticons.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/emoticons.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_emoticons.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/emoticons.jpg'
     },
     END_VOTING_NOTIF: {
         id: 'END_VOTING_NOTIF',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_end-voting-notif.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/end-voting-notif.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_end-voting-notif.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/end-voting-notif.jpg'
     },
     FORBIDDEN_LIST: {
         id: 'FORBIDDEN_LIST',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_forbidden-list.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/forbidden-list.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_forbidden-list.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/forbidden-list.jpg'
     },
     FORGOT_PASSWORD: {
         id: 'FORGOT_PASSWORD',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_forgot-password.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/forgot-password.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_forgot-password.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/forgot-password.jpg'
     },
     FRIENDSHIP_ROOM_BLACK: {
         id: 'FRIENDSHIP_ROOM_BLACK',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room-black.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room-black.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room-black.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room-black.jpg'
     },
     FRIENDSHIP_ROOM_SETTINGS: {
         id: 'FRIENDSHIP_ROOM_SETTINGS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room-settings.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room-settings.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room-settings.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room-settings.jpg'
     },
     FRIENDSHIP_ROOM: {
         id: 'FRIENDSHIP_ROOM',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-room.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-room.jpg'
     },
     FRIENDSHIP_SETTINGS: {
         id: 'FRIENDSHIP_SETTINGS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-settings.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-settings.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-settings.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-settings.jpg'
     },
     FRIENDSHIP_SPACE: {
         id: 'FRIENDSHIP_SPACE',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-space.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-space.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_friendship-space.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/friendship-space.jpg'
     },
     GROUP_SPACE: {
         id: 'GROUP_SPACE',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_group-space.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/group-space.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_group-space.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/group-space.jpg'
     },
     LEAVE_GROUP: {
         id: 'LEAVE_GROUP',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_leave-group.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/leave-group.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_leave-group.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/leave-group.jpg'
     },
     MEET_UP: {
         id: 'MEET_UP',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meet-up.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/meet-up.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meet-up.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/meet-up.jpg'
     },
     MEETING_PROPOSITION: {
         id: 'MEETING_PROPOSITION',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meeting-proposition.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/meeting-proposition.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meeting-proposition.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/meeting-proposition.jpg'
     },
     MEETING_VOTING: {
         id: 'MEETING_VOTING',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meeting-voting.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/meeting-voting.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_meeting-voting.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/meeting-voting.jpg'
     },
     NOTIFICATIONS: {
         id: 'NOTIFICATIONS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_notifications.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/notifications.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_notifications.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/notifications.jpg'
     },
     ORDER_A_SEARCH: {
         id: 'ORDER_A_SEARCH',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_order-a-search.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/order-a-search.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_order-a-search.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/order-a-search.jpg'
     },
     ORDERS_EXPIRE: {
         id: 'ORDERS_EXPIRE',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_orders-expire.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/orders-expire.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_orders-expire.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/orders-expire.jpg'
     },
     PLANS: {
         id: 'PLANS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_plans.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/plans.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_plans.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/plans.jpg'
     },
     PROPOSITIONS: {
         id: 'PROPOSITIONS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_propositions.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/propositions.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_propositions.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/propositions.jpg'
     },
     SEARCH_FORM: {
         id: 'SEARCH_FORM',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_search-form.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/search-form.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_search-form.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/search-form.jpg'
     },
     SEARCH_USERS: {
         id: 'SEARCH_USERS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_search-users.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/search-users.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_search-users.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/search-users.jpg'
     },
     SETTINGS: {
         id: 'SETTINGS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_settings.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/settings.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_settings.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/settings.jpg'
     },
     SIGN_IN: {
         id: 'SIGN_IN',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_sign-in.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/sign-in.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_sign-in.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/sign-in.jpg'
     },
     TAGS_ALL: {
         id: 'TAGS_ALL',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-all.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/tags-all.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-all.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/tags-all.jpg'
     },
     TAGS_MODAL: {
         id: 'TAGS_MODAL',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-modal.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/tags-modal.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-modal.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/tags-modal.jpg'
     },
     TAGS_POPULAR: {
         id: 'TAGS_POPULAR',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-popular.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/tags-popular.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-popular.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/tags-popular.jpg'
     },
     TAGS_SPECIAL: {
         id: 'TAGS_SPECIAL',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-special.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/tags-special.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_tags-special.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/tags-special.jpg'
     },
     USER_PROFILE_1: {
         id: 'USER_PROFILE_1',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-1.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-1.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-1.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-1.jpg'
     },
     USER_PROFILE_2: {
         id: 'USER_PROFILE_2',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-2.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-2.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-2.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-2.jpg'
     },
     USER_PROFILE_3: {
         id: 'USER_PROFILE_3',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-3.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-3.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user-profile-3.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/user-profile-3.jpg'
     },
     USER: {
         id: 'USER',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/user.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_user.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/user.jpg'
     },
     USERS_FILTERS: {
         id: 'USERS_FILTERS',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_users-filters.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/users-filters.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_users-filters.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/users-filters.jpg'
     },
     VOTING_ACTIVE: {
         id: 'VOTING_ACTIVE',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_voting-active.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/voting-active.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_voting-active.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/voting-active.jpg'
     },
     VOTING_CLOSED: {
         id: 'VOTING_CLOSED',
-        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_voting-closed.png',
-        fullImagePath: originalImagesPathPrefix + '/desktop/voting-closed.png'
+        thumbImagePath: originalImagesPathPrefix + '/desktop/thumb_voting-closed.jpg',
+        fullImagePath: originalImagesPathPrefix + '/desktop/voting-closed.jpg'
     },
     MOBILE_EMOTICONS: {
         id: 'MOBILE_EMOTICONS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_emoticons.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/emoticons.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_emoticons.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/emoticons.jpg'
     },
     MOBILE_FORBIDDEN_LIST: {
         id: 'MOBILE_FORBIDDEN_LIST',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_forbidden-list.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/forbidden-list.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_forbidden-list.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/forbidden-list.jpg'
     },
     MOBILE_FRIENDSHIP_MENU: {
         id: 'MOBILE_FRIENDSHIP_MENU',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-menu.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-menu.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-menu.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-menu.jpg'
     },
     MOBILE_FRIENDSHIP_ROOM: {
         id: 'MOBILE_FRIENDSHIP_ROOM',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-room.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-room.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-room.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-room.jpg'
     },
     MOBILE_FRIENDSHIP_SPACE: {
         id: 'MOBILE_FRIENDSHIP_SPACE',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-space.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-space.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_friendship-space.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/friendship-space.jpg'
     },
     MOBILE_LEAVE: {
         id: 'MOBILE_LEAVE',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_leave.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/leave.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_leave.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/leave.jpg'
     },
     MOBILE_MEET_UP_PREP: {
         id: 'MOBILE_MEET_UP_PREP',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_meet-up-prep.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/meet-up-prep.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_meet-up-prep.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/meet-up-prep.jpg'
     },
     MOBILE_MEET_UP: {
         id: 'MOBILE_MEET_UP',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_meet-up.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/meet-up.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_meet-up.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/meet-up.jpg'
     },
     MOBILE_NOTIFICATION: {
         id: 'MOBILE_NOTIFICATION',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_notification.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/notification.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_notification.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/notification.jpg'
     },
     MOBILE_NOTIFICATIONS: {
         id: 'MOBILE_NOTIFICATIONS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_notifications.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/notifications.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_notifications.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/notifications.jpg'
     },
     MOBILE_ORDERS: {
         id: 'MOBILE_ORDERS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_orders.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/orders.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_orders.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/orders.jpg'
     },
     MOBILE_PLANS: {
         id: 'MOBILE_PLANS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_plans.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/plans.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_plans.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/plans.jpg'
     },
     MOBILE_ROOM_BOT: {
         id: 'MOBILE_ROOM_BOT',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_room-bot.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/room-bot.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_room-bot.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/room-bot.jpg'
     },
     MOBILE_ROOM_SETTINGS: {
         id: 'MOBILE_ROOM_SETTINGS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_room-settings.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/room-settings.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_room-settings.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/room-settings.jpg'
     },
     MOBILE_SEARCH_FORM_2: {
         id: 'MOBILE_SEARCH_FORM_2',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_search-form-2.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/search-form-2.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_search-form-2.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/search-form-2.jpg'
     },
     MOBILE_SEARCHING: {
         id: 'MOBILE_SEARCHING',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_searching.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/searching.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_searching.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/searching.jpg'
     },
     MOBILE_SPACES: {
         id: 'MOBILE_SPACES',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_spaces.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/spaces.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_spaces.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/spaces.jpg'
     },
     MOBILE_TAGS_SPECIAL: {
         id: 'MOBILE_TAGS_SPECIAL',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_tags-special.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/tags-special.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_tags-special.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/tags-special.jpg'
     },
     MOBILE_USER_FILTERS: {
         id: 'MOBILE_USER_FILTERS',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-filters.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/user-filters.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-filters.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/user-filters.jpg'
     },
     MOBILE_USER_PROFILE: {
         id: 'MOBILE_USER_PROFILE',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-profile.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/user-profile.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-profile.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/user-profile.jpg'
     },
     MOBILE_USER_SEARCH: {
         id: 'MOBILE_USER_SEARCH',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-search.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/user-search.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user-search.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/user-search.jpg'
     },
     MOBILE_USER: {
         id: 'MOBILE_USER',
-        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user.png',
-        fullImagePath: originalImagesPathPrefix + '/mobile/user.png'
+        thumbImagePath: originalImagesPathPrefix + '/mobile/thumb_user.jpg',
+        fullImagePath: originalImagesPathPrefix + '/mobile/user.jpg'
     },
 }
 

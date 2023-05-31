@@ -1,312 +1,312 @@
 export const Images = {
   ACTIVE_ORDERS: {
     id: 'ACTIVE_ORDERS',
-    thumbImagePath: '/images/archive/desktop/399646eedc35ebcbac6b7dd3f862b22b_thumb_active-orders.png',
-    fullImagePath: '/images/archive/desktop/b09ef72992a0bc40675673c8bafe8919_active-orders.png'
+    thumbImagePath: '/images/archive/desktop/168292373a3a259d3409550b83f5b3db_thumb_active-orders.jpg',
+    fullImagePath: '/images/archive/desktop/b2463f75fa689ab4a48f422f03629f8f_active-orders.jpg'
   },
   BOT_SETTINGS: {
     id: 'BOT_SETTINGS',
-    thumbImagePath: '/images/archive/desktop/a144ff615c38b287cbe1b4adf5616ded_thumb_bot-settings.png',
-    fullImagePath: '/images/archive/desktop/fda1d924fe2d9bda6ebdce9ab0712b59_bot-settings.png'
+    thumbImagePath: '/images/archive/desktop/21dad9bba65c96b731c7ebf5c8b9c06d_thumb_bot-settings.jpg',
+    fullImagePath: '/images/archive/desktop/9432eb5a3dad56661f389a8ab5ecc906_bot-settings.jpg'
   },
   CREATE_ACCOUNT: {
     id: 'CREATE_ACCOUNT',
-    thumbImagePath: '/images/archive/desktop/ef971769c957d97a10d01fdae71df3d5_thumb_create-account.png',
-    fullImagePath: '/images/archive/desktop/8e8c74c5194d8cf4823f4d96c8ed3bf3_create-account.png'
+    thumbImagePath: '/images/archive/desktop/34c8964b70baa6bc13a5a9ad9d712f87_thumb_create-account.jpg',
+    fullImagePath: '/images/archive/desktop/e7eab087fbc6595fd4c70a8e5ae03116_create-account.jpg'
   },
   CREATE_INVITATION_2: {
     id: 'CREATE_INVITATION_2',
-    thumbImagePath: '/images/archive/desktop/5c0a23c34b9472b46644804dcf9da722_thumb_create-invitation-2.png',
-    fullImagePath: '/images/archive/desktop/d3209573015ad48fefd2550f2d76623a_create-invitation-2.png'
+    thumbImagePath: '/images/archive/desktop/777b4cac4f7520bff564c6e40232500f_thumb_create-invitation-2.jpg',
+    fullImagePath: '/images/archive/desktop/c3ff9ac3b4f395c47f3876acac12e832_create-invitation-2.jpg'
   },
   CREATE_INVITATION_3: {
     id: 'CREATE_INVITATION_3',
-    thumbImagePath: '/images/archive/desktop/c1b8ac03b6258dfd54b2a5c4f42b1843_thumb_create-invitation-3.png',
-    fullImagePath: '/images/archive/desktop/48c75b738359d37a50ae221e31264c05_create-invitation-3.png'
+    thumbImagePath: '/images/archive/desktop/a4ef7f35cfd1112a07f78466118db697_thumb_create-invitation-3.jpg',
+    fullImagePath: '/images/archive/desktop/a5538102b837b8d2c8f1f376372ed794_create-invitation-3.jpg'
   },
   CREATE_INVITATION: {
     id: 'CREATE_INVITATION',
-    thumbImagePath: '/images/archive/desktop/1842c0dfdfaf09df0216442d0ae27fb3_thumb_create-invitation.png',
-    fullImagePath: '/images/archive/desktop/f8daf2696329b055e539885edea941dd_create-invitation.png'
+    thumbImagePath: '/images/archive/desktop/a061a6cabf1c790b52c438228106d6ba_thumb_create-invitation.jpg',
+    fullImagePath: '/images/archive/desktop/a9645f08fc18101a2e063c59fab2f20e_create-invitation.jpg'
   },
   EMOTICONS: {
     id: 'EMOTICONS',
-    thumbImagePath: '/images/archive/desktop/e4a395839c84a2ec1d9bd47323d0ce4e_thumb_emoticons.png',
-    fullImagePath: '/images/archive/desktop/a731450685ca21d8faedc424da83b87b_emoticons.png'
+    thumbImagePath: '/images/archive/desktop/1e2d4ee12e3d98751621e2c9aec9cfa1_thumb_emoticons.jpg',
+    fullImagePath: '/images/archive/desktop/26d6ae3e4335908ad9e08715af8e8d2a_emoticons.jpg'
   },
   END_VOTING_NOTIF: {
     id: 'END_VOTING_NOTIF',
-    thumbImagePath: '/images/archive/desktop/2a32569c422e6a511b1936990030d6c3_thumb_end-voting-notif.png',
-    fullImagePath: '/images/archive/desktop/2b4ad57904115e27f898a18e7ec7b08c_end-voting-notif.png'
+    thumbImagePath: '/images/archive/desktop/8832b0cf831d6f7d139ffda1109b2112_thumb_end-voting-notif.jpg',
+    fullImagePath: '/images/archive/desktop/0c7d33d8e23f987b3869a18342e967db_end-voting-notif.jpg'
   },
   FORBIDDEN_LIST: {
     id: 'FORBIDDEN_LIST',
-    thumbImagePath: '/images/archive/desktop/15db54c524560cb8cd0c1d80ab87dd02_thumb_forbidden-list.png',
-    fullImagePath: '/images/archive/desktop/3764b730ace590cde529ba398030a0c2_forbidden-list.png'
+    thumbImagePath: '/images/archive/desktop/f8eefc2859d42fa1052a7cf4717c2203_thumb_forbidden-list.jpg',
+    fullImagePath: '/images/archive/desktop/296aa760ab68dc0e4a5ce63bf17190de_forbidden-list.jpg'
   },
   FORGOT_PASSWORD: {
     id: 'FORGOT_PASSWORD',
-    thumbImagePath: '/images/archive/desktop/932b022a475b3fbf21da06bd19bda355_thumb_forgot-password.png',
-    fullImagePath: '/images/archive/desktop/ee5ef28f7b8f54f9cd3da78163ee7717_forgot-password.png'
+    thumbImagePath: '/images/archive/desktop/ed75fbd84d818cb6d19701023f20d81f_thumb_forgot-password.jpg',
+    fullImagePath: '/images/archive/desktop/befd04e474478cbd13207d9c2fa56ee8_forgot-password.jpg'
   },
   FRIENDSHIP_ROOM_BLACK: {
     id: 'FRIENDSHIP_ROOM_BLACK',
-    thumbImagePath: '/images/archive/desktop/4ed142e5f4526d9bb2f0496c2b276d99_thumb_friendship-room-black.png',
-    fullImagePath: '/images/archive/desktop/c82897f71a67356b88db8c5bc5625b46_friendship-room-black.png'
+    thumbImagePath: '/images/archive/desktop/b0ac9727a2befbab6bd6b9e8b6e03331_thumb_friendship-room-black.jpg',
+    fullImagePath: '/images/archive/desktop/116a687f71090c1148337b26cbc2ba12_friendship-room-black.jpg'
   },
   FRIENDSHIP_ROOM_SETTINGS: {
     id: 'FRIENDSHIP_ROOM_SETTINGS',
-    thumbImagePath: '/images/archive/desktop/be278dba5541514ee9e828a7b040d825_thumb_friendship-room-settings.png',
-    fullImagePath: '/images/archive/desktop/b60c2fb82655c75752447ac8c63ee3fb_friendship-room-settings.png'
+    thumbImagePath: '/images/archive/desktop/b33c98e7919519ec3f38421f5293e32a_thumb_friendship-room-settings.jpg',
+    fullImagePath: '/images/archive/desktop/bf5faf238a6040ee8cbd4a3ad56c7ed0_friendship-room-settings.jpg'
   },
   FRIENDSHIP_ROOM: {
     id: 'FRIENDSHIP_ROOM',
-    thumbImagePath: '/images/archive/desktop/903e95476d20e3731972d9dab38c6bc3_thumb_friendship-room.png',
-    fullImagePath: '/images/archive/desktop/13637fc8ca3494cfb7c230ab071bc694_friendship-room.png'
+    thumbImagePath: '/images/archive/desktop/02b4f3d0bf26454646832df7b742473a_thumb_friendship-room.jpg',
+    fullImagePath: '/images/archive/desktop/77090bfd66441efb61382445dfc72005_friendship-room.jpg'
   },
   FRIENDSHIP_SETTINGS: {
     id: 'FRIENDSHIP_SETTINGS',
-    thumbImagePath: '/images/archive/desktop/d2bfb11bc54c8a95ccc8bb661dc8cc18_thumb_friendship-settings.png',
-    fullImagePath: '/images/archive/desktop/063d06a72a577bbb0c1ac77cdd1a7905_friendship-settings.png'
+    thumbImagePath: '/images/archive/desktop/f4f98d7ccb4a4783a418ef87ddf7384a_thumb_friendship-settings.jpg',
+    fullImagePath: '/images/archive/desktop/ebcff7462d65e04414e0c2180afbaa08_friendship-settings.jpg'
   },
   FRIENDSHIP_SPACE: {
     id: 'FRIENDSHIP_SPACE',
-    thumbImagePath: '/images/archive/desktop/bcde3c39b4c5b384ac84ffd729a0781a_thumb_friendship-space.png',
-    fullImagePath: '/images/archive/desktop/f649d4ce1238e50449e069bb0e00d915_friendship-space.png'
+    thumbImagePath: '/images/archive/desktop/62b15ed67a1680f23a205e12b74eda19_thumb_friendship-space.jpg',
+    fullImagePath: '/images/archive/desktop/14896df405a14026c3f57ca3527a7227_friendship-space.jpg'
   },
   GROUP_SPACE: {
     id: 'GROUP_SPACE',
-    thumbImagePath: '/images/archive/desktop/49b04d21c670f11e9c72a923d8177ed2_thumb_group-space.png',
-    fullImagePath: '/images/archive/desktop/1c6e07922caba568d4042b4ec62a0193_group-space.png'
+    thumbImagePath: '/images/archive/desktop/efab5525a56020ef66619f677625568c_thumb_group-space.jpg',
+    fullImagePath: '/images/archive/desktop/67c289bd1de5bf6d0edc74babdd3eddd_group-space.jpg'
   },
   LEAVE_GROUP: {
     id: 'LEAVE_GROUP',
-    thumbImagePath: '/images/archive/desktop/2a1c2d5c9ac0da5d273075ae480faa12_thumb_leave-group.png',
-    fullImagePath: '/images/archive/desktop/ce4afa7eeef0789781ea947ad7d1a85e_leave-group.png'
+    thumbImagePath: '/images/archive/desktop/8635a92659b2e482bc2aa83c5732896e_thumb_leave-group.jpg',
+    fullImagePath: '/images/archive/desktop/eba836aa8e917dcf65303bff426570dc_leave-group.jpg'
   },
   MEET_UP: {
     id: 'MEET_UP',
-    thumbImagePath: '/images/archive/desktop/8469b5e4b092899d2dd6c98f93fa0a0a_thumb_meet-up.png',
-    fullImagePath: '/images/archive/desktop/042d52ba72e002a289c46bab186d873b_meet-up.png'
+    thumbImagePath: '/images/archive/desktop/5d4cae0dd4d95ad8afc1ab1c36db8c85_thumb_meet-up.jpg',
+    fullImagePath: '/images/archive/desktop/f05036d4e1a2de6092b89c23218f6bf7_meet-up.jpg'
   },
   MEETING_PROPOSITION: {
     id: 'MEETING_PROPOSITION',
-    thumbImagePath: '/images/archive/desktop/3fa27f1ecf1367d2246f3de64f27823f_thumb_meeting-proposition.png',
-    fullImagePath: '/images/archive/desktop/ce06eb741753976d6ab1a54d3f5d0c6c_meeting-proposition.png'
+    thumbImagePath: '/images/archive/desktop/1e61ac57f50a2bb4789462462e4f0804_thumb_meeting-proposition.jpg',
+    fullImagePath: '/images/archive/desktop/2b95dc2f15536466797c7140dd8907ad_meeting-proposition.jpg'
   },
   MEETING_VOTING: {
     id: 'MEETING_VOTING',
-    thumbImagePath: '/images/archive/desktop/5142f0cc38a463a4c4fdbb7e6552a98d_thumb_meeting-voting.png',
-    fullImagePath: '/images/archive/desktop/ca0d4c60218c07810cc09b457756b497_meeting-voting.png'
+    thumbImagePath: '/images/archive/desktop/0dc0015a565523bb685765134ef9a49e_thumb_meeting-voting.jpg',
+    fullImagePath: '/images/archive/desktop/2bd942181d1bfc04071086febcd984df_meeting-voting.jpg'
   },
   NOTIFICATIONS: {
     id: 'NOTIFICATIONS',
-    thumbImagePath: '/images/archive/desktop/2af79dba1b871d9d999874ea1d577958_thumb_notifications.png',
-    fullImagePath: '/images/archive/desktop/dc29d13ca2f012b3efea22348bb896b9_notifications.png'
+    thumbImagePath: '/images/archive/desktop/937d7c1be4f1c5f317a320ffdfdfbdfe_thumb_notifications.jpg',
+    fullImagePath: '/images/archive/desktop/dc92f42b6bd5ea16e6d159da2c4f275d_notifications.jpg'
   },
   ORDER_A_SEARCH: {
     id: 'ORDER_A_SEARCH',
-    thumbImagePath: '/images/archive/desktop/0f9d7ace01bfe7d2b6d331eb4e74a6c3_thumb_order-a-search.png',
-    fullImagePath: '/images/archive/desktop/7548207b0f1d78c21b6cc5e3dafa0796_order-a-search.png'
+    thumbImagePath: '/images/archive/desktop/5cc92704bf0eb13c042a2402f6695543_thumb_order-a-search.jpg',
+    fullImagePath: '/images/archive/desktop/f0c5f061e9a08a540245fa7412beabe5_order-a-search.jpg'
   },
   ORDERS_EXPIRE: {
     id: 'ORDERS_EXPIRE',
-    thumbImagePath: '/images/archive/desktop/4e860dae62ec2dc40b3fa57a34c25599_thumb_orders-expire.png',
-    fullImagePath: '/images/archive/desktop/0f370479760da12651653d4e69dc5fa1_orders-expire.png'
+    thumbImagePath: '/images/archive/desktop/9c608a764c59e30d2c34d74a0e62c6ef_thumb_orders-expire.jpg',
+    fullImagePath: '/images/archive/desktop/9b1b6df49101b553501aa4ba86d1d76b_orders-expire.jpg'
   },
   PLANS: {
     id: 'PLANS',
-    thumbImagePath: '/images/archive/desktop/107eda79c1c7ab29a1fa82014c30a729_thumb_plans.png',
-    fullImagePath: '/images/archive/desktop/a694a3fbd9f9ea3d7fdcab1671b6b5c5_plans.png'
+    thumbImagePath: '/images/archive/desktop/f9de820fcf6ec3e3c7c80f736c98eae2_thumb_plans.jpg',
+    fullImagePath: '/images/archive/desktop/87b1328eac2f457b3021c1573cab90f4_plans.jpg'
   },
   PROPOSITIONS: {
     id: 'PROPOSITIONS',
-    thumbImagePath: '/images/archive/desktop/a8553243ef46f0a3dc1063d4d88f0700_thumb_propositions.png',
-    fullImagePath: '/images/archive/desktop/b51917902ab2c49c14acfd66f08f29d1_propositions.png'
+    thumbImagePath: '/images/archive/desktop/24121618eb27a10a03b4d22c25b6f3d0_thumb_propositions.jpg',
+    fullImagePath: '/images/archive/desktop/83e02fad1ccb2f66ff6ec53a4a6feaf3_propositions.jpg'
   },
   SEARCH_FORM: {
     id: 'SEARCH_FORM',
-    thumbImagePath: '/images/archive/desktop/4bb500df9a0987a9fa343d81c5e9db6a_thumb_search-form.png',
-    fullImagePath: '/images/archive/desktop/c63cb158236a4a76e455f61b7e53fc24_search-form.png'
+    thumbImagePath: '/images/archive/desktop/2e01863b8a0efa30503e80e362e8da66_thumb_search-form.jpg',
+    fullImagePath: '/images/archive/desktop/b0722a8ac1b1e32904debfedbc852556_search-form.jpg'
   },
   SEARCH_USERS: {
     id: 'SEARCH_USERS',
-    thumbImagePath: '/images/archive/desktop/6f4395b3e30cba588e7f0f24ca389795_thumb_search-users.png',
-    fullImagePath: '/images/archive/desktop/94ca8c090a5bdcfc49c92169be069fa9_search-users.png'
+    thumbImagePath: '/images/archive/desktop/53e1ee07820da1e50594df1b2263c64f_thumb_search-users.jpg',
+    fullImagePath: '/images/archive/desktop/9511e2f3b79c26b5d508d71bd95f88a2_search-users.jpg'
   },
   SETTINGS: {
     id: 'SETTINGS',
-    thumbImagePath: '/images/archive/desktop/63c861ecee54717764e3fe6d85f8d842_thumb_settings.png',
-    fullImagePath: '/images/archive/desktop/4a2a4ff570ca5be334822437e17445e5_settings.png'
+    thumbImagePath: '/images/archive/desktop/1289e70490a7dceb8396187be4c4ff20_thumb_settings.jpg',
+    fullImagePath: '/images/archive/desktop/c98fe093d7bdec5921be8b25de84cd3c_settings.jpg'
   },
   SIGN_IN: {
     id: 'SIGN_IN',
-    thumbImagePath: '/images/archive/desktop/6313d408cef9b76c929f689617c68a8c_thumb_sign-in.png',
-    fullImagePath: '/images/archive/desktop/a32b8912b5170e250bb5a87d831dd623_sign-in.png'
+    thumbImagePath: '/images/archive/desktop/70f44012ad823747fc618291f438db0c_thumb_sign-in.jpg',
+    fullImagePath: '/images/archive/desktop/1a0030b4bde1bac9c3325e47e0b1957e_sign-in.jpg'
   },
   TAGS_ALL: {
     id: 'TAGS_ALL',
-    thumbImagePath: '/images/archive/desktop/fe9a4cce390ae5d40be4cf32f3407ea5_thumb_tags-all.png',
-    fullImagePath: '/images/archive/desktop/bbf7a0dec0094df91ba06044f56d578f_tags-all.png'
+    thumbImagePath: '/images/archive/desktop/9b1a784317264bc92568b93931ec630b_thumb_tags-all.jpg',
+    fullImagePath: '/images/archive/desktop/82ea4937356de54bd8d91481d2ed0d96_tags-all.jpg'
   },
   TAGS_MODAL: {
     id: 'TAGS_MODAL',
-    thumbImagePath: '/images/archive/desktop/e5b5c832c1a97860fcfb34f599a4c739_thumb_tags-modal.png',
-    fullImagePath: '/images/archive/desktop/5db9a0ff4854c0e85531cc06b1d7f81d_tags-modal.png'
+    thumbImagePath: '/images/archive/desktop/b1f29717bc12532bc2266c2b6e039fef_thumb_tags-modal.jpg',
+    fullImagePath: '/images/archive/desktop/9adf0cc916d8d978e03e5d640feeef1e_tags-modal.jpg'
   },
   TAGS_POPULAR: {
     id: 'TAGS_POPULAR',
-    thumbImagePath: '/images/archive/desktop/af70dff57f482172b9dc819de9e3afe2_thumb_tags-popular.png',
-    fullImagePath: '/images/archive/desktop/358339560c043b840f915a6b6c4a410b_tags-popular.png'
+    thumbImagePath: '/images/archive/desktop/b0a04e638ee0e9fcb613c22c2586b3ed_thumb_tags-popular.jpg',
+    fullImagePath: '/images/archive/desktop/46e655138d8b477d8fccf7fe0095b406_tags-popular.jpg'
   },
   TAGS_SPECIAL: {
     id: 'TAGS_SPECIAL',
-    thumbImagePath: '/images/archive/desktop/2790cd09ef74b5c40fe19a24e2b0470d_thumb_tags-special.png',
-    fullImagePath: '/images/archive/desktop/6361be792ba292be041c6639855c81c2_tags-special.png'
+    thumbImagePath: '/images/archive/desktop/546295b3434493e210d2970420cfa603_thumb_tags-special.jpg',
+    fullImagePath: '/images/archive/desktop/488f0b625d56d7f8878d96909d054d44_tags-special.jpg'
   },
   USER_PROFILE_1: {
     id: 'USER_PROFILE_1',
-    thumbImagePath: '/images/archive/desktop/d535eace8341658bfe60bc824db0f12b_thumb_user-profile-1.png',
-    fullImagePath: '/images/archive/desktop/287745ec1c954e2bd9b179a373a13b63_user-profile-1.png'
+    thumbImagePath: '/images/archive/desktop/e4159dbb1adf4753f0bc3c943e905876_thumb_user-profile-1.jpg',
+    fullImagePath: '/images/archive/desktop/4a11069443a9db11109bd313f2c6129c_user-profile-1.jpg'
   },
   USER_PROFILE_2: {
     id: 'USER_PROFILE_2',
-    thumbImagePath: '/images/archive/desktop/233b6f2178fb544f4d18b8eae3d398ab_thumb_user-profile-2.png',
-    fullImagePath: '/images/archive/desktop/0d78d38b378a37c4e729723740fc2642_user-profile-2.png'
+    thumbImagePath: '/images/archive/desktop/9335151a5e8437b9e6b4775683ff50ae_thumb_user-profile-2.jpg',
+    fullImagePath: '/images/archive/desktop/6af884c64750cd9649ae495195481bae_user-profile-2.jpg'
   },
   USER_PROFILE_3: {
     id: 'USER_PROFILE_3',
-    thumbImagePath: '/images/archive/desktop/ebde3b53c4d1c80bb9be595f2fa0159b_thumb_user-profile-3.png',
-    fullImagePath: '/images/archive/desktop/ed33da83cf462ea8d40480e555f806e1_user-profile-3.png'
+    thumbImagePath: '/images/archive/desktop/c408a74c93e9ffb8d67aa68de373fcd3_thumb_user-profile-3.jpg',
+    fullImagePath: '/images/archive/desktop/4823dceeed777fd473ad57f557d638b4_user-profile-3.jpg'
   },
   USER: {
     id: 'USER',
-    thumbImagePath: '/images/archive/desktop/ab4333987313ce454f143e61db39ff64_thumb_user.png',
-    fullImagePath: '/images/archive/desktop/2ba8fb4cec4f51c31e5f677c880149ab_user.png'
+    thumbImagePath: '/images/archive/desktop/c037ab4df52cd4513c6bae5b19551c80_thumb_user.jpg',
+    fullImagePath: '/images/archive/desktop/e5a438fcd6f350c6ea7570809a9ff203_user.jpg'
   },
   USERS_FILTERS: {
     id: 'USERS_FILTERS',
-    thumbImagePath: '/images/archive/desktop/283fee4d174923b183baea4b466bb1ad_thumb_users-filters.png',
-    fullImagePath: '/images/archive/desktop/8c836dfa8e3d1e61b5385220fdb8cf3a_users-filters.png'
+    thumbImagePath: '/images/archive/desktop/f5134c642cc29c2b9d7da20bd6efb3ae_thumb_users-filters.jpg',
+    fullImagePath: '/images/archive/desktop/7b1e80b954eceef3dc4bc2c7e7a5a18d_users-filters.jpg'
   },
   VOTING_ACTIVE: {
     id: 'VOTING_ACTIVE',
-    thumbImagePath: '/images/archive/desktop/9181ab7c4bd6f1fddf3d8073918c0795_thumb_voting-active.png',
-    fullImagePath: '/images/archive/desktop/26e332b9e7cad21b5b2cb153e3a8443a_voting-active.png'
+    thumbImagePath: '/images/archive/desktop/be2e33903884baca1b94fd72f24b5a9a_thumb_voting-active.jpg',
+    fullImagePath: '/images/archive/desktop/b8a364631f9b4ba087039f328691d1ba_voting-active.jpg'
   },
   VOTING_CLOSED: {
     id: 'VOTING_CLOSED',
-    thumbImagePath: '/images/archive/desktop/6e7fc6201e923db61c012557734dc9f7_thumb_voting-closed.png',
-    fullImagePath: '/images/archive/desktop/fa80285d7be7f630aeab7f9c6df6ff36_voting-closed.png'
+    thumbImagePath: '/images/archive/desktop/57634ee126692a27a1e769d7ec54f74a_thumb_voting-closed.jpg',
+    fullImagePath: '/images/archive/desktop/d5c949d6f92c44b01aae35af8b794a52_voting-closed.jpg'
   },
   MOBILE_EMOTICONS: {
     id: 'MOBILE_EMOTICONS',
-    thumbImagePath: '/images/archive/mobile/7ac4fbc1deced8e3a9bbd2f700e9dd6e_thumb_emoticons.png',
-    fullImagePath: '/images/archive/mobile/51fdc6614b62cb89ba102a51860d59f9_emoticons.png'
+    thumbImagePath: '/images/archive/mobile/c891b6a73e9e416bffc46398287a4374_thumb_emoticons.jpg',
+    fullImagePath: '/images/archive/mobile/8adb3f168763a22e3378fda82b99957f_emoticons.jpg'
   },
   MOBILE_FORBIDDEN_LIST: {
     id: 'MOBILE_FORBIDDEN_LIST',
-    thumbImagePath: '/images/archive/mobile/3fde2c05664e417bdb4e4f8c9266eefd_thumb_forbidden-list.png',
-    fullImagePath: '/images/archive/mobile/6a56a1be218e8c235f4d1f6bded4de76_forbidden-list.png'
+    thumbImagePath: '/images/archive/mobile/c6c971fc750112f5461ab950005d0980_thumb_forbidden-list.jpg',
+    fullImagePath: '/images/archive/mobile/5739868921518befcbb6185ed48784e3_forbidden-list.jpg'
   },
   MOBILE_FRIENDSHIP_MENU: {
     id: 'MOBILE_FRIENDSHIP_MENU',
-    thumbImagePath: '/images/archive/mobile/e0d57dddb606573b330aa0c4f7946c54_thumb_friendship-menu.png',
-    fullImagePath: '/images/archive/mobile/b9f887b11b4d7895f8994adddb74d3ee_friendship-menu.png'
+    thumbImagePath: '/images/archive/mobile/23a3e721d23548b3101407f42da857a8_thumb_friendship-menu.jpg',
+    fullImagePath: '/images/archive/mobile/21c4ff15f3e9f01c96aef7236c27dffc_friendship-menu.jpg'
   },
   MOBILE_FRIENDSHIP_ROOM: {
     id: 'MOBILE_FRIENDSHIP_ROOM',
-    thumbImagePath: '/images/archive/mobile/a184d52b66da6bb114ab62079a36b45c_thumb_friendship-room.png',
-    fullImagePath: '/images/archive/mobile/f1aa457430566ca254edb7ffae9cab55_friendship-room.png'
+    thumbImagePath: '/images/archive/mobile/dd23db111c2f5ecced59f0496cdf3fe7_thumb_friendship-room.jpg',
+    fullImagePath: '/images/archive/mobile/7d9c35cfeb7ed1491be5fc091657718e_friendship-room.jpg'
   },
   MOBILE_FRIENDSHIP_SPACE: {
     id: 'MOBILE_FRIENDSHIP_SPACE',
-    thumbImagePath: '/images/archive/mobile/40319eee89ab062b8eaa9c0758ddcf39_thumb_friendship-space.png',
-    fullImagePath: '/images/archive/mobile/0944e468345ce67b376d3ab0ba28da58_friendship-space.png'
+    thumbImagePath: '/images/archive/mobile/0bfb38b23b00c5a384d3fa2cec9afee1_thumb_friendship-space.jpg',
+    fullImagePath: '/images/archive/mobile/d1ea69bc632fb8fd1e969e23563b10c7_friendship-space.jpg'
   },
   MOBILE_LEAVE: {
     id: 'MOBILE_LEAVE',
-    thumbImagePath: '/images/archive/mobile/a7ddcc6c5ec288a0940a5e25623839bc_thumb_leave.png',
-    fullImagePath: '/images/archive/mobile/a41b7f15d011ecc67cda803bea79bd91_leave.png'
+    thumbImagePath: '/images/archive/mobile/967f16817984e6dae7d02f97b57f1df5_thumb_leave.jpg',
+    fullImagePath: '/images/archive/mobile/feeb216545af44a903aaebc5cee55ad7_leave.jpg'
   },
   MOBILE_MEET_UP_PREP: {
     id: 'MOBILE_MEET_UP_PREP',
-    thumbImagePath: '/images/archive/mobile/e8ad7a802a50de91ff89283c373eb1af_thumb_meet-up-prep.png',
-    fullImagePath: '/images/archive/mobile/155019c435aa855542fb91524da07c38_meet-up-prep.png'
+    thumbImagePath: '/images/archive/mobile/5800a2ccca93e497975220e76c8addf9_thumb_meet-up-prep.jpg',
+    fullImagePath: '/images/archive/mobile/6165e7a20c9649ccdf19ccb5d3aa985f_meet-up-prep.jpg'
   },
   MOBILE_MEET_UP: {
     id: 'MOBILE_MEET_UP',
-    thumbImagePath: '/images/archive/mobile/db94d849cdffeadc55ef089c03ae3a76_thumb_meet-up.png',
-    fullImagePath: '/images/archive/mobile/f5d258bebdf92230b68230536f59aa17_meet-up.png'
+    thumbImagePath: '/images/archive/mobile/4346a5267da71d975fe262a544f3b490_thumb_meet-up.jpg',
+    fullImagePath: '/images/archive/mobile/9e8156172ff96057d49e96ab566c55d1_meet-up.jpg'
   },
   MOBILE_NOTIFICATION: {
     id: 'MOBILE_NOTIFICATION',
-    thumbImagePath: '/images/archive/mobile/44579eafa36947f402c4a505f85684dd_thumb_notification.png',
-    fullImagePath: '/images/archive/mobile/622809a4a1852ac509d033cc54b23469_notification.png'
+    thumbImagePath: '/images/archive/mobile/844a4b6912fb7bf24a5372e2ea421e31_thumb_notification.jpg',
+    fullImagePath: '/images/archive/mobile/b602d7674d87f79656fabe07e005577a_notification.jpg'
   },
   MOBILE_NOTIFICATIONS: {
     id: 'MOBILE_NOTIFICATIONS',
-    thumbImagePath: '/images/archive/mobile/078f66bea566789d036bfba39bb2d509_thumb_notifications.png',
-    fullImagePath: '/images/archive/mobile/40443ad6eff7c9c570499f28c74e6f64_notifications.png'
+    thumbImagePath: '/images/archive/mobile/54ffd088dfd0f8ff014b2297fb831e06_thumb_notifications.jpg',
+    fullImagePath: '/images/archive/mobile/e21c9c403e8518157e584dbeb12f4783_notifications.jpg'
   },
   MOBILE_ORDERS: {
     id: 'MOBILE_ORDERS',
-    thumbImagePath: '/images/archive/mobile/ae1d130bfe68cebce79ac8f2e0a27477_thumb_orders.png',
-    fullImagePath: '/images/archive/mobile/b6bbfacfab656ef3efa81b41f3dbb3f8_orders.png'
+    thumbImagePath: '/images/archive/mobile/cc1431d8285f371032fdecf2293d0e99_thumb_orders.jpg',
+    fullImagePath: '/images/archive/mobile/5cc47143cfd55f27ad5cb31351f0f3fe_orders.jpg'
   },
   MOBILE_PLANS: {
     id: 'MOBILE_PLANS',
-    thumbImagePath: '/images/archive/mobile/3120265a26495d6ea613045f59055dfd_thumb_plans.png',
-    fullImagePath: '/images/archive/mobile/e89a576c1fccb5ee48cfacffad30fcaf_plans.png'
+    thumbImagePath: '/images/archive/mobile/8b1b0abc6679cb2a40fb073349f8f846_thumb_plans.jpg',
+    fullImagePath: '/images/archive/mobile/f9d8103abb599e4643a15459b3f9cdca_plans.jpg'
   },
   MOBILE_ROOM_BOT: {
     id: 'MOBILE_ROOM_BOT',
-    thumbImagePath: '/images/archive/mobile/649b07f21ab2c58164061e9dfe6475ca_thumb_room-bot.png',
-    fullImagePath: '/images/archive/mobile/8a59653b4830b1bb87283b5c03a9962d_room-bot.png'
+    thumbImagePath: '/images/archive/mobile/cfa031a557ba06a52653e69eb51d9886_thumb_room-bot.jpg',
+    fullImagePath: '/images/archive/mobile/6bcca26f0b04b1c4b97542994dba166e_room-bot.jpg'
   },
   MOBILE_ROOM_SETTINGS: {
     id: 'MOBILE_ROOM_SETTINGS',
-    thumbImagePath: '/images/archive/mobile/45a4bac7239b3f1428eae0e16f3f2a12_thumb_room-settings.png',
-    fullImagePath: '/images/archive/mobile/82c642e791ad407bb3e989103d8ae5a5_room-settings.png'
+    thumbImagePath: '/images/archive/mobile/e6d6f985f1b1781037ed6323e144e557_thumb_room-settings.jpg',
+    fullImagePath: '/images/archive/mobile/b45c5fe15149995fb1917342adbf5b3f_room-settings.jpg'
   },
   MOBILE_SEARCH_FORM_2: {
     id: 'MOBILE_SEARCH_FORM_2',
-    thumbImagePath: '/images/archive/mobile/0215cf5fa5810e22d1261f35de25dfd0_thumb_search-form-2.png',
-    fullImagePath: '/images/archive/mobile/499a925f6a3767af20f489b167ccb8d2_search-form-2.png'
+    thumbImagePath: '/images/archive/mobile/ce6d950005fc39952d5df60005fcf613_thumb_search-form-2.jpg',
+    fullImagePath: '/images/archive/mobile/18082dc08ab5cc74198d8e5f39f94aa3_search-form-2.jpg'
   },
   MOBILE_SEARCHING: {
     id: 'MOBILE_SEARCHING',
-    thumbImagePath: '/images/archive/mobile/46ffcf126e2557ccb02387f8fd739b06_thumb_searching.png',
-    fullImagePath: '/images/archive/mobile/6359ee79009832544e3f2c9c65c50146_searching.png'
+    thumbImagePath: '/images/archive/mobile/da39c7728eea6352ea1b1402e3a4ae7b_thumb_searching.jpg',
+    fullImagePath: '/images/archive/mobile/d2484a6e6bb92eb2b39b20e568c23573_searching.jpg'
   },
   MOBILE_SPACES: {
     id: 'MOBILE_SPACES',
-    thumbImagePath: '/images/archive/mobile/322c047308b03ec6966b5ad52aa948b9_thumb_spaces.png',
-    fullImagePath: '/images/archive/mobile/d7ecbf4ee75bdc2d1521a84171528cc5_spaces.png'
+    thumbImagePath: '/images/archive/mobile/f397d372d3641c1cfbc897f057a1841b_thumb_spaces.jpg',
+    fullImagePath: '/images/archive/mobile/4497a129e379451cd0c9768d535f3ab5_spaces.jpg'
   },
   MOBILE_TAGS_SPECIAL: {
     id: 'MOBILE_TAGS_SPECIAL',
-    thumbImagePath: '/images/archive/mobile/9a1e24b72c294ed9d070bb83ef2e98c4_thumb_tags-special.png',
-    fullImagePath: '/images/archive/mobile/60ee57e99493b5c6fb215374c1b853db_tags-special.png'
+    thumbImagePath: '/images/archive/mobile/7ba01cbfe49932f00bf9f7c174e4f59c_thumb_tags-special.jpg',
+    fullImagePath: '/images/archive/mobile/493b7652bf1d947375d7a692a8669655_tags-special.jpg'
   },
   MOBILE_USER_FILTERS: {
     id: 'MOBILE_USER_FILTERS',
-    thumbImagePath: '/images/archive/mobile/72f7d5b136b0361525b06b95ff98f937_thumb_user-filters.png',
-    fullImagePath: '/images/archive/mobile/ddc5ee5c75de7129940f7c237fc4dbd9_user-filters.png'
+    thumbImagePath: '/images/archive/mobile/2ac8f47ae0bad24af86455cca8141180_thumb_user-filters.jpg',
+    fullImagePath: '/images/archive/mobile/93771df702f43706fd262efda3d154fa_user-filters.jpg'
   },
   MOBILE_USER_PROFILE: {
     id: 'MOBILE_USER_PROFILE',
-    thumbImagePath: '/images/archive/mobile/47f85a72c78847952367e241983c8f6f_thumb_user-profile.png',
-    fullImagePath: '/images/archive/mobile/a6d3beb6281908d71da1ef9fb32819c5_user-profile.png'
+    thumbImagePath: '/images/archive/mobile/634915c7c220f192bc840f456b0fb1d4_thumb_user-profile.jpg',
+    fullImagePath: '/images/archive/mobile/2c338c68827b8ea2d919dcf38fee9bbe_user-profile.jpg'
   },
   MOBILE_USER_SEARCH: {
     id: 'MOBILE_USER_SEARCH',
-    thumbImagePath: '/images/archive/mobile/8ae90e7c9631644d5710204d46934ede_thumb_user-search.png',
-    fullImagePath: '/images/archive/mobile/a4803b43c32aaa4477b7b031640090cf_user-search.png'
+    thumbImagePath: '/images/archive/mobile/bfd0a51d4987343ac7a4ee93629aec02_thumb_user-search.jpg',
+    fullImagePath: '/images/archive/mobile/c3e64fbd14e317a97e833e357535a81c_user-search.jpg'
   },
   MOBILE_USER: {
     id: 'MOBILE_USER',
-    thumbImagePath: '/images/archive/mobile/2cff213582fffb588b2d8d5ada8ac960_thumb_user.png',
-    fullImagePath: '/images/archive/mobile/de60060bdb51d76fa8a7db3b1f409dff_user.png'
+    thumbImagePath: '/images/archive/mobile/34c6c4331602d4ff9d56153ddf1c126c_thumb_user.jpg',
+    fullImagePath: '/images/archive/mobile/72a781919223ea6f32eca487e3a86592_user.jpg'
   }
 } as { [key: string]: { id: string, thumbImagePath: string, fullImagePath: string } };
