@@ -2,7 +2,7 @@
 export const translations: any = {
   archive: {
     contextTitle: 'Kontekst',
-    context: 'Kiedyś żyła tutaj aplikacja Hairo, która była pierwszym, zautomatyzowanym systemem do poznawania ludzi. Pisaliśmy ją z myślą o tym, aby maksymalnie proste stało się znalezienie osób z którymi się dogadujemy i utrzymywanie z nimi kontaktu. Po roku od jej publikacji i zgromadzeniu blisko 1500 użytkowników, zdecydowaliśmy się ją zarchiwizować wraz z dniem 28-05-2023.',
+    context: 'Kiedyś żyła tutaj aplikacja Hairo, która była pierwszym, zautomatyzowanym systemem do poznawania ludzi. Pisaliśmy ją z myślą o tym, aby maksymalnie proste stało się znalezienie osób z którymi się dogadujemy i utrzymywanie z nimi kontaktu. Po roku od jej publikacji i zgromadzeniu blisko 1500 użytkowników, zdecydowaliśmy się ją zarchiwizować wraz z dniem 31 maja, 2023 roku.',
     howItWorkedTitle: 'Działanie',
     howItWorked: 'Dwie reklamy opisujące działanie Hairo:',
     add1: {

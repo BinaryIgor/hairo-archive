@@ -2,7 +2,7 @@
 export const translations: any = {
   archive: {
     contextTitle: 'Context',
-    context: 'Once upon a time, the Hairo app existed here, which was the first, automated system for meeting people. We created it to make finding new people with whom we get along well, and keeping in touch with them, as simple as possible. After a year of its publication and gathering close to 1500 users, we decided to archive it on May 29, 2023.',
+    context: 'Once upon a time, the Hairo app existed here, which was the first, automated system for meeting people. We created it to make finding new people with whom we get along well, and keeping in touch with them, as simple as possible. After a year of its publication and gathering close to 1500 users, we decided to archive it on May 31, 2023.',
     howItWorkedTitle: 'How it worked',
     howItWorked: 'Two ads describing how Hairo works:',
     add1: {

@@ -411,6 +411,8 @@ export default defineComponent({
         },
 
         showImageGallery1(imageId: string) {
+            this.currentImageIdOfGallery1 = imageId;
+
             if (this.gallery1[imageId].fullImage) {
                 this.display1 = true;
             } else {
@@ -420,7 +422,6 @@ export default defineComponent({
                     if (element) {
                         element.src = Images[imageId].fullImagePath
                         this.gallery1[imageId].fullImage = element.src
-                        this.currentImageIdOfGallery1 = imageId;
                         this.display1 = true;
                     }
                 })
@@ -428,6 +429,8 @@ export default defineComponent({
         },
 
         showImageGallery2(imageId: string) {
+            this.currentImageIdOfGallery2 = imageId;
+
             if (this.gallery2[imageId].fullImage) {
                 this.display2 = true;
             } else {
@@ -437,7 +440,6 @@ export default defineComponent({
                     if (element) {
                         element.src = Images[imageId].fullImagePath
                         this.gallery2[imageId].fullImage = element.src
-                        this.currentImageIdOfGallery2 = imageId;
                         this.display2 = true;
                     }
                 })
