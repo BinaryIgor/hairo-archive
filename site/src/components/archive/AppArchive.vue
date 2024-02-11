@@ -235,7 +235,7 @@
         <h2>{{ $translations.archive.creatorsTitle }}</h2>
 
         <p>{{ $translations.archive.creatorsParagraph }}</p>
-        <a href="https://igor.roztropinski.com" target="_blank">
+        <a href="https://www.linkedin.com/in/igroz/" target="_blank">
             <em>Igor Roztropiński</em>
         </a>
         <br />
